@@ -17,6 +17,8 @@ namespace AutomationFramework.Helper
             KolektoIntegration = config["KolektoIntegration"];
             KolektoStaging = config["KolektoStaging"];
             RunOnBrowser = (BrowserType)Enum.Parse(typeof(BrowserType), config["RunOnBrowser"]);
+            ReportOutput = config["ReportOutput"];
+            ClearOldScreenshot = bool.Parse(config["ClearOldScreenshotsWhenRunning"]);
         }
 
         public static int ActionTimeout { get; set; }

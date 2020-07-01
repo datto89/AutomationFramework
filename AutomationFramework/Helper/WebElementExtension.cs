@@ -1,12 +1,10 @@
-﻿using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
-using OpenQA.Selenium.Remote;
-using System;
-using System.Collections.Generic;
-using System.Text;
-
+﻿
 namespace AutomationFramework.Helper
 {
+    using AutomationFramework.Reports;
+    using OpenQA.Selenium;
+    using OpenQA.Selenium.Interactions;
+    using OpenQA.Selenium.Remote;
     public static class WebElementExtension
     {
         public static void EnterText(this IWebElement element,string value)

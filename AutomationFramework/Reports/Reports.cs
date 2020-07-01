@@ -1,5 +1,6 @@
 ﻿using AutomationFramework.Helper;
 using AventStack.ExtentReports;
+using AventStack.ExtentReports.MarkupUtils;
 using AventStack.ExtentReports.Reporter;
 using System.IO;
 

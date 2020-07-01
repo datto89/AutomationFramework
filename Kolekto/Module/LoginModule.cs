@@ -1,5 +1,6 @@
 ﻿using AutomationFramework.Base;
 using AutomationFramework.Helper;
+using AutomationFramework.Reports;
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,8 @@ namespace Kolekto.Module
 
         public void LogIn(string username,string password)
         {
+            Reports.CurrentTest.Info($"Login with Username: {username}");
+
             FindElementById(UsernameId).EnterText(username);
             FindElementByCssSelector(SubmitCss).ClickOn();
             FindElementByCssSelector(PasswordCss).EnterText(password);

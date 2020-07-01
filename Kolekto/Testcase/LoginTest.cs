@@ -1,4 +1,5 @@
 ﻿using AutomationFramework.Base;
+using AutomationFramework.Reports;
 using Kolekto.Module;
 using NUnit.Framework;
 using System;
@@ -23,12 +24,13 @@ namespace Kolekto.Testcase
         public void TearDown()
         {
             LogOut();
+            Reports.GenerateReport();
         }
 
         [Test]
         public void LogInTest()
         {
-
+            Reports.CurrentTest.Info($"LoginTest");
         }
     }
 }

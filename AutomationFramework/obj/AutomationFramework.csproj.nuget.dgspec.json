@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {}
+    "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
+    "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
+        "projectUniqueName": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
         "projectName": "AutomationFramework",
-        "projectPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\dat.to\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\obj\\",
+        "projectPath": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dat.to\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

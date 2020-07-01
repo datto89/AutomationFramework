@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\Kolekto\\Kolekto.csproj": {}
+    "F:\\AutomationProject\\AutomationFramework\\Kolekto\\Kolekto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
+    "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
+        "projectUniqueName": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
         "projectName": "AutomationFramework",
-        "projectPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
-        "packagesPath": "C:\\Users\\dat.to\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\obj\\",
+        "projectPath": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dat.to\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,20 +82,17 @@
         }
       }
     },
-    "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\Kolekto\\Kolekto.csproj": {
+    "F:\\AutomationProject\\AutomationFramework\\Kolekto\\Kolekto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\Kolekto\\Kolekto.csproj",
+        "projectUniqueName": "F:\\AutomationProject\\AutomationFramework\\Kolekto\\Kolekto.csproj",
         "projectName": "Kolekto",
-        "projectPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\Kolekto\\Kolekto.csproj",
-        "packagesPath": "C:\\Users\\dat.to\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\Kolekto\\obj\\",
+        "projectPath": "F:\\AutomationProject\\AutomationFramework\\Kolekto\\Kolekto.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "F:\\AutomationProject\\AutomationFramework\\Kolekto\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dat.to\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,8 +105,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
-                "projectPath": "C:\\Users\\dat.to\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj"
+              "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj": {
+                "projectPath": "F:\\AutomationProject\\AutomationFramework\\AutomationFramework\\AutomationFramework.csproj"
               }
             }
           }
