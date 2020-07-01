@@ -1,0 +1,6 @@
+{
+  "ActionTimeoutInSecond": 3,
+  "KolektoIntegration": "https://kolekto-huur-integration.azurewebsites.net/",
+  "KolektoStaging": "https://kolekto-huur-staging.azurewebsites.net/",
+  "RunOnBrowser": "Chrome"
+}

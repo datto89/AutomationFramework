@@ -1,0 +1,10 @@
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.deps.json
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.dll
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.csprojAssemblyReference.cache
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.AssemblyInfoInputs.cache
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.AssemblyInfo.cs
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.pdb
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.dll
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\obj\Debug\netcoreapp3.1\AutomationFramework.pdb
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp3.1\AutomationFramework.dll.config
+C:\Users\dat.to\source\repos\AutomationFramework\AutomationFramework\bin\Debug\netcoreapp3.1\AppConfig.json
